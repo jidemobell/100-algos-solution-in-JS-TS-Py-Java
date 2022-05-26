@@ -8,4 +8,4 @@ function alphabetSubsequence(word) {
   return true;
 }
 
-console.log(alphabetSubsequence("ace"));
+// console.log(alphabetSubsequence("ace"));

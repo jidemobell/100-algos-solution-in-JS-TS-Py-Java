@@ -4,4 +4,4 @@ for (let i = 0,k=i+1; i <= ar.length - 1; i+=2,k+=2) {
   b[0] += (ar[i])
   k != ar.length && (b[1] += (ar[k]))
 }
-console.log(b)
+// console.log(b)

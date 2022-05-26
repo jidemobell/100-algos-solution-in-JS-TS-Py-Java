@@ -12,7 +12,6 @@ function incresingSeq(data){
         if(clone[j] > clone[j+1]){
           output =  false
           console.log(output)
-          be
         }
       }
       clone = [...data]
@@ -21,4 +20,4 @@ function incresingSeq(data){
 }
 
 
-incresingSeq(test2)
+// incresingSeq(test2)

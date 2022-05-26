@@ -4,4 +4,4 @@ for (let i = 0,j=1; i < test.length && j <= test.length; i++, j++) {
    test[i] * test[j] > max && (max = test[i] * test[j]) 
 }
 
-console.log(max)
+// console.log(max)

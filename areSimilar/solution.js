@@ -17,6 +17,6 @@ function areSimilar(a,b) {
   return true
 }
 
-console.time("job1")
-console.log(areSimilar(x,y))
-console.timeEnd("job1")
+// console.time("job1")
+// console.log(areSimilar(x,y))
+// console.timeEnd("job1")
